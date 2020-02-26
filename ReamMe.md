@@ -3,6 +3,8 @@ using github.com - fork the repo in your user space
 
 clone the repo from your user space
 
+git clone https://github.com/rajeshgheware/demogit.git
+
 modify the code base
 
 commit the code base
