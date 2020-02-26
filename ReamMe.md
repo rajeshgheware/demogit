@@ -9,7 +9,15 @@ modify the code base
 
 commit the code base
 
+git add .
+
+git commit -m "user comment" .
+
 push the code to github.com
+
+git push orign master
+
+
 
 raise pull request to the source repo
 
